@@ -4,7 +4,7 @@ The purpose of this project is to create a streamlined method of analyzing if a 
 ## Process
 - Data Pull
 - Data Clean
-- Value Metrics
+- Value Metrics (Warning Filter Function)
 - Estimated Price
 ## Data Pull
 Stock Price information pulled from Yahoo! using Pandas Datareader. <br />

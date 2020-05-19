@@ -16,7 +16,7 @@ Metrics used are:
 - Interest Coverage Ratio
 - PEG Ratio
 ### Estimated Price
-Finally a future price is determine and compared to the current price. A 'Buy' or 'Sell' response is returned based upon the results.
+A future price is estimated and compared to the current price. A 'Buy' or 'Sell' response is returned based upon the results.
 ## Moving Forward
 Industry information would be included to get a better understanding of the company because a lot of these ratios can vary and have different norms based upon what the company does.
 

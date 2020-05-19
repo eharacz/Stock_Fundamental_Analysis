@@ -1,4 +1,4 @@
-# Stock_Value_Investing
+# Stock Fundamental Analysis (Value Investing)
 ## Purpose
 The purpose of this project is to create a streamlined method of analyzing a stock. The main objectives are to determine if a stock is a 'value' stock and then to estimate if it is currently over or under-priced. There are multiple functions that are streamlined into one master or pagination function allowing the input of a list of stocks and a return of all the information. The indicators are primarily based off of Sean Seah's book "Gone Fishing with Buffett".
 ## Process

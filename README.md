@@ -18,5 +18,6 @@ Metrics used are:
 ### Estimated Price
 A future price is estimated and compared to the current price. A 'Buy' or 'Sell' response is returned based upon the results.
 ## Moving Forward
-Industry information would be included to get a better understanding of the company because a lot of these ratios can vary and have different norms based upon what the company does.
+Industry information would be included to get a better understanding of the company because a lot of these ratios can vary and have different norms based upon what the company does. <br />
+Financial Statement scraper function could use some improvement. I tested it on all S&P500 stocks and it was able to work on 85% of them. The other 15% it did not work on because their statements were formatted differently. A more flexible scraper would be a great improvement.
 
